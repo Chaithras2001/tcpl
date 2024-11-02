@@ -1,13 +1,18 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Footer from './footer';  
 
 function App() {
   return (
     <>
-    <h1>header</h1>
-    <p>main</p>
-    <p>jdu</p>
-    <p>footer</p>
+    
+      
+      <footer>
+        <p>Footer Content Here</p>
+      </footer>
+      
+      <Footer />
     </>
   );
 }
