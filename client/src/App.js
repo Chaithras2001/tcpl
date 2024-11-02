@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Header'
 
 function App() {
   return (
     <>
-    <h1>header</h1>
-    <p>main</p>
-    <p>jdu</p>
+<Header></Header>
     </>
   );
 }
