@@ -7,6 +7,7 @@ function App() {
     <h1>header</h1>
     <p>main</p>
     <p>jdu</p>
+    <p>footer</p>
     </>
   );
 }
